@@ -1,0 +1,12 @@
+nIDs_length,7,8
+IDnum,seq,repeat,condition(hr in selection)
+Hsp90_ID_1,ATTACTCG,A,14
+Hsp90_ID_2,TCCGGAGA,A,16
+Hsp90_ID_3,CGCTCATT,A,18
+Hsp90_ID_4,GAGATTCC,A,20
+Hsp90_ID_5,ATTCAGAA,A,22
+Hsp90_ID_6,GAATTCGT,A,24
+Hsp90_ID_8,TAATGCGC,A,32
+
+
+
